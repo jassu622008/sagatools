@@ -1,0 +1,270 @@
+body {
+    background-color: aliceblue;
+}
+
+.ja {
+    position: relative;
+    top: 50px;
+    right: -90px;
+}
+
+.ja1 {
+    position: relative;
+    top: -435px;
+    right: -550px;
+}
+
+.ja2 {
+    position: relative;
+    top: -920;
+    right: -1020px;
+}
+
+.jassu {
+    position: relative;
+    width: 350px;
+}
+
+.jassu1 {
+    position: relative;
+    width: 350px;
+}
+
+.jassu2 {
+    position: relative;
+    width: 350px;
+}
+
+.jassu3 {
+    position: relative;
+    width: 350px;
+}
+
+.jassu4 {
+    position: relative;
+    width: 350px;
+}
+
+.bts {
+    position: relative;
+    top: 15px;
+}
+
+.all {
+    width: 400px;
+    background-color: black;
+    position: relative;
+    top: 90px;
+}
+
+.message {
+    color: black;
+    position: relative;
+    top: 100px;
+}
+
+.l1 {
+    color: white;
+}
+
+.l2 {
+    color: white;
+}
+
+.l3 {
+    color: white;
+}
+
+.l4 {
+    color: white;
+}
+
+.l5 {
+    color: white;
+}
+
+.footer {
+    position: relative;
+    top: 100%;
+}
+
+.fs {
+    width: 50%;
+}
+
+.emails-list {
+    position: relative;
+    width: 800px;
+    height: 300px;
+    top: 150px;
+    left: 350px;
+}
+
+.email-input {
+    position: relative;
+    width: 800px;
+    height: 300px;
+    top: 50px;
+}
+
+.jte {
+    position: relative;
+    top: 800px;
+}
+
+.jbtn {
+    position: relative;
+    top: 70px;
+}
+
+.eh {
+    position: relative;
+    top: 160px;
+    left: 600px;
+}
+
+.ph {
+    position: relative;
+    top: 160px;
+    left: 400px;
+}
+
+.btnjassu {
+    position: relative;
+    top: 90px;
+    right: 25%;
+}
+
+.ydth {
+    position: relative;
+    top: 190px;
+}
+
+.input {
+    width: 350px;
+    position: relative;
+    top: 30px;
+    left: 17%;
+}
+
+.ydt {
+    background-color: black;
+    width: 550px;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    left: 500px;
+}
+
+.heading_for_use_email {
+    position: relative;
+    top: 220px;
+}
+
+.para {
+    position: relative;
+    top: 250px;
+}
+
+.jt {
+    position: relative;
+    right: 150px;
+    top: -25px;
+}
+
+.jp {
+    position: relative;
+    left: 150px;
+    top: -25px;
+}
+
+.cp {
+    position: relative;
+    top: 10px;
+}
+
+.ja3 {
+    position: relative;
+    top: -850px;
+    right: -90px;
+}
+
+.text_emails_text {
+    position: relative;
+    width: 50%;
+    height: 50%;
+    top: 150px;
+}
+
+.tau {
+    position: relative;
+    top: 30px;
+    width: 300px;
+    height: 50px;
+}
+
+.input_scraper {
+    position: relative;
+    background-color: black;
+    width: 75%;
+    height: 75%;
+    top: 50px;
+}
+
+.btn_scraper {
+    position: relative;
+    top: 100px;
+    right: 200px;
+}
+
+.ja4 {
+    position: relative;
+    top: -1335px;
+    right: -550px;
+}
+
+.ai_cgh {
+    position: relative;
+    top: 25px;
+}
+
+.ai_topic {
+    position: relative;
+    width: 300px;
+    height: 35px;
+    top: 50px;
+    left: 50px;
+}
+
+.ai_result {
+    position: relative;
+    width: 50%;
+    height: 50%;
+    top: 150px;
+}
+
+.ai {
+    background-color: black;
+    width: 35%;
+    height: 30%;
+    align-self: center;
+    position: relative;
+    top: 75px;
+}
+
+.result_ai {
+    position: relative;
+    top: 150px;
+}
+
+.ai_btm {
+    position: relative;
+    top: 125px;
+    right: 150px;
+}
+
+.ja5 {
+    position: relative;
+    right: -1020px;
+    top: -1820px;
+}

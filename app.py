@@ -2,6 +2,8 @@ from flask import Flask
 
 import manager
 
+import os
+
 from flask import render_template
 
 from flask import request
@@ -188,4 +190,5 @@ def phones():
             return render_template("tools/phone_text.html", list=str(e))
 
 if __name__ == "__main__":
-    app.run()
+    port = int(os.environ.get('PORT', 5000))
+    app.run(port=port)

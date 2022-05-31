@@ -188,4 +188,4 @@ def phones():
             return render_template("tools/phone_text.html", list=str(e))
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()

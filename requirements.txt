@@ -101,12 +101,6 @@ sortedcontainers==2.4.0
 soupsieve==2.3.2.post1
 sqlparse==0.4.2
 tb-nightly==2.10.0a20220521
-tensorboard==2.9.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
-tensorflow==2.9.0
-tensorflow-estimator==2.9.0
-tensorflow-io-gcs-filesystem==0.26.0
 termcolor==1.1.0
 tf-estimator-nightly==2.10.0.dev2022052108
 tf-nightly-gpu==2.10.0.dev20220521
